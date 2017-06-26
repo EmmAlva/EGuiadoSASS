@@ -1,0 +1,74 @@
+//COLORES-Valores
+$header : #317c17;
+header{
+	color: rgba(18,185,72,0.9);
+}
+$text: #EA590E;
+.text{
+	color: rgb(67,167,255);
+}
+
+$fila:#749531;
+#scores{
+	background: rgba(250,207,28,0.9);
+}
+#other-scores{
+	background: rgba(186,43,170,0.7);
+}
+$datos: #911E82;
+$footer: #682ea2;
+footer{
+	color:#614326;
+}
+//TAMAÑOS
+$width: 5em;
+
+
+//COLOR H1
+h1{
+	color: #f07b16;
+}
+//MARGENES Y WIDTH CONTENEDORES
+#container{
+	width: 750px;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+table{
+	padding: 10px;
+}
+th{
+	width: 70px;
+}
+
+#container p{
+	font-family: Arial;
+	font-size: 13px;
+}
+#container h1{
+	font-family: Tahoma;
+	font-size: 45px;
+}
+#container h2{
+	font-family: Helvetica;
+	font-size: 35px;
+}
+
+//WIDTH A %
+//operaciones
+
+//style salida
+/*--expanded
+--compact
+--compressed*/
+
+
+/*Mixins:
+	celdas/border/padding
+Herencia: 
+	th(letra >)/td (color)
+
+Segmentar :
+	MODULES PARTIALS
+*/

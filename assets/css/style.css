@@ -1,0 +1,54 @@
+header {
+  color: rgba(18, 185, 72, 0.9); }
+
+.text {
+  color: #43a7ff; }
+
+#scores {
+  background: rgba(250, 207, 28, 0.9); }
+
+#other-scores {
+  background: rgba(186, 43, 170, 0.7); }
+
+footer {
+  color: #614326; }
+
+h1 {
+  color: #f07b16; }
+
+#container {
+  width: 750px;
+  margin: 0 auto;
+  padding: 10px; }
+
+table {
+  padding: 10px; }
+
+th {
+  width: 70px; }
+
+#container p {
+  font-family: Arial;
+  font-size: 13px; }
+
+#container h1 {
+  font-family: Tahoma;
+  font-size: 45px; }
+
+#container h2 {
+  font-family: Helvetica;
+  font-size: 35px; }
+
+/*--expanded
+--compact
+--compressed*/
+/*Mixins:
+	celdas/border/padding
+Herencia: 
+	th(letra >)/td (color)
+
+Segmentar :
+	MODULES PARTIALS
+*/
+
+/*# sourceMappingURL=style.css.map */
